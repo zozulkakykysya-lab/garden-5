@@ -16,20 +16,20 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Yanone Kaffeesatz
+      body: Verdana
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
+        light: "#f8ebef"
+        lightgray: "#f3e8eb"
+        gray: "#c05884"
+        darkgray: "#2d0f1c"
+        dark: "#5b263c"
         secondary: "#284b63"
-        tertiary: "#84a59d"
+        tertiary: "#8498a5"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        textHighlight: "#b3c7f077"
       darkMode:
         light: "#161618"
         lightgray: "#393639"
@@ -37,9 +37,9 @@ configuration:
         darkgray: "#d4d4d4"
         dark: "#ebebec"
         secondary: "#7b97aa"
-        tertiary: "#84a59d"
+        tertiary: "#8498a5"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        textHighlight: "#b3c7f077"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
