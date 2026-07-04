@@ -17,7 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Yanone Kaffeesatz
-      body: Verdana
+      body: Cormorant
       code: IBM Plex Mono
     colors:
       lightMode:
