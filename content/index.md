@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Грешники скоро отправятся в путь!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Здесь будет храниться вся лорная информация по нашему кампейну!
