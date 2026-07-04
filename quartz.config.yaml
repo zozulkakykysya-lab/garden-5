@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: airiyourdm.github.io
+  baseUrl: airiyourdm.github.io/sinnerdnd
   ignorePatterns:
     - private
     - templates
